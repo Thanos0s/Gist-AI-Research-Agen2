@@ -106,8 +106,8 @@ This project combines a powerful set of tools to deliver a seamless research exp
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/ai-research-agent.git
-cd ai-research-agent
+git clone https://github.com/Kaustubh-790/Gist-AI-Research-Agent.git
+cd Gist-AI-Research-Agent
 ```
 
 ```bash
