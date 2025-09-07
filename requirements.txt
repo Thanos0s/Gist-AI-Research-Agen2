@@ -1,0 +1,17 @@
+langchain 
+wikipedia 
+langchain-community 
+langchain-google-genai
+python-dotenv
+pydantic
+duckduckgo-search
+ddgs
+streamlit
+google-api-python-client
+requests
+beautifulsoup4
+reportlab
+newspaper3k
+readability-lxml
+lxml
+python-dateutil
