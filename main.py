@@ -1,6 +1,6 @@
 from dotenv import load_dotenv
 from pydantic import BaseModel
-from langchain_google_genai import ChatGoogleGenerativeAI
+ #from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import PydanticOutputParser
 from tools import search_tool, wiki_tool, save_tool, multi_source_tool, scrape_multiple_urls_adaptive
