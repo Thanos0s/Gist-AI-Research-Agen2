@@ -1,6 +1,6 @@
 import streamlit as st
 import time
-from main import research_topic
+#from main import research_topic
 from reportlab.lib.pagesizes import letter, A4
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, PageBreak
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
