@@ -1,9 +1,9 @@
-from langchain_community.tools import WikipediaQueryRun, DuckDuckGoSearchRun
-from langchain_community.utilities import WikipediaAPIWrapper
-from langchain.tools import Tool
+#from langchain_community.tools import WikipediaQueryRun, DuckDuckGoSearchRun
+#from langchain_community.utilities import WikipediaAPIWrapper
+ #from langchain.tools import Tool
 from datetime import datetime
 import requests
-from bs4 import BeautifulSoup
+ #from bs4 import BeautifulSoup
 import re
 import urllib.parse
 import json
